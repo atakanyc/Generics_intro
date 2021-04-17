@@ -25,6 +25,7 @@ namespace GenericsInto
             sayılar2.Add(8);
             sayılar2.Add(15);
             sayılar2.Add(30);
+			sayılar2.Add(67);
 
             foreach (var item in sayılar2.Items)
             {
