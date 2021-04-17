@@ -1,0 +1,13 @@
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\bin\Debug\netcoreapp3.1\GenericsInto.exe
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\bin\Debug\netcoreapp3.1\GenericsInto.deps.json
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\bin\Debug\netcoreapp3.1\GenericsInto.runtimeconfig.json
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\bin\Debug\netcoreapp3.1\GenericsInto.runtimeconfig.dev.json
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\bin\Debug\netcoreapp3.1\GenericsInto.dll
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\bin\Debug\netcoreapp3.1\GenericsInto.pdb
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\obj\Debug\netcoreapp3.1\GenericsInto.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\obj\Debug\netcoreapp3.1\GenericsInto.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\obj\Debug\netcoreapp3.1\GenericsInto.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\obj\Debug\netcoreapp3.1\GenericsInto.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\obj\Debug\netcoreapp3.1\GenericsInto.dll
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\obj\Debug\netcoreapp3.1\GenericsInto.pdb
+C:\Users\Mehmet\source\repos\CampIntro\GenericsInto\obj\Debug\netcoreapp3.1\GenericsInto.genruntimeconfig.cache
